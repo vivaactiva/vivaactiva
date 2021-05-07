@@ -1,12 +1,15 @@
 ### hello, world!
 
-freshman at yonsei.univ(biz)
+freshman at Yonsei.univ(biz)
 
 aspiring game designer
 
  :sparkles: PIXEL everything
+ 
  :sparkles: Learning Python, C#, Unity, Aseprite
+ 
  :sparkles: How to reach me: vivaactiva@naver.com
+ 
  :sparkles: Pronouns: she/her
 
 
