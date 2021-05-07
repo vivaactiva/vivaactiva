@@ -1,6 +1,6 @@
 ### hello, world!
 
-freshman at Yonsei.univ(biz)
+freshman at Yonsei
 
 aspiring game designer
 
