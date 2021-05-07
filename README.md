@@ -1,17 +1,17 @@
-### Hi there 👋
+### hello, world!
 
-<!--
-**vivaactiva/vivaactiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###freshman at yonsei.univ(biz)
 
-Here are some ideas to get you started:
+###aspiring game designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :sparkles: PIXEL everything
+- :sparkles: Learning Python, C#, Unity, Aseprite
+- :sparkles: How to reach me: vivaactiva@naver.com
+- :sparkles: Pronouns: she/her
+
+
+
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvivaactiva%2Fvivaactiva&count_bg=%23F55D49&title_bg=%23FFC9A9&icon=tencentqq.svg&icon_color=%23F55D49&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
