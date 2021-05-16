@@ -2,8 +2,6 @@
 
 freshman at Yonsei
 
-aspiring game designer
-
  
  :sparkles: Learning Python, C#, Unity, Aseprite
  
