@@ -1,0 +1,25 @@
+from google.colab import drive
+drive.mount('/content/drive')
+
+import numpy as np
+d = np.loadtxt('/content/drive/MyDrive/cars.csv', delimiter=',', skiprows=1, usecols=(2,3,4,))
+
+#skiprows = [행1,행2,..] 를 이용하면 지정한 행을 제외한 나머지 행만 보여준다.
+#불러올 칼럼의 인덱스 번호나 이름을 지정.
+#https://m.blog.naver.com/PostView.naver?blogId=nonamed0000&logNo=220897255287&proxyReferer=http:%2F%2F221.147.67.207%2F
+
+import pandas
+from sklearn import linear_model
+
+
+X = d[:,0:2]  # : 는 데이터 전체, 0:1은 0에서 1까지
+y = d[:,2]
+
+regr = linear_model.LinearRegression()
+regr.fit(X, y)
+
+#predict the CO2 emission of a car where the weight is 2300kg, and the volume is 1300cm3:
+predictedCO2 = regr.predict([[2300, 1300]])
+
+print(predictedCO2)
+
