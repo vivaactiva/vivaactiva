@@ -6,6 +6,7 @@ freshman at Yonsei
  :sparkles: Learning Python, Unity
  
  :sparkles: How to reach me: vivaactiva@yonsei.ac.kr
+ 
  :sparkles: Pronouns: she/her
 
 
